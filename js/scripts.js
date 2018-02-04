@@ -111,3 +111,12 @@ function setGamePoints() {
     playerPointsElem.innerHTML = player.score;
     computerPointsElem.innerHTML = computer.score;
 }
+
+function numberofPoints() {
+    if (player.score == 10) {
+        console.log('Player win!')
+    } else if(computer.score ==10){
+        console.log('Computer win!')
+    }
+        
+}
