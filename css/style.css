@@ -1,6 +1,6 @@
-.col-xs-5, .label, .badge {
+.col-xs-5, .label, .badge, .col-xs-2 {
     padding:  0 5px;   
-    margin: 20px;
+    margin: 10px 0;
 }
 h3 {
     margin: 25px auto;
